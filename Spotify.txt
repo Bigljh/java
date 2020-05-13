@@ -5,4 +5,5 @@ DOMAIN-SUFFIX,scdn.co,Spotify
 DOMAIN-SUFFIX,spotify.com,Spotify
 DOMAIN-SUFFIX,spoti.fi,Spotify
 DOMAIN-KEYWORD,spotify.com,Spotify
-DOMAIN-KEYWORD,-spotify-com,Spotify,img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Spotify.png
+DOMAIN-KEYWORD,-spotify-com,Spotify
+img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Spotify.png
